@@ -1,0 +1,5 @@
+There are two scripts in this repository:
+ * The final script that was used is labeled with -ALL- in the title. This script loops through the alphabetical author pages on the worm meeting website and pulls data from the html tables. 
+ * The other file was for testing on a specific subset of the data (author's last name "T")
+ 
+ Both files were written in/for Jupyter Notebook and will output a .csv file containing all author information for those presenting at the 2017 international worm conference.  
